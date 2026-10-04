@@ -6,7 +6,11 @@
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
+    "@google/genai": "^2.26.0",
     "@remotion/cli": "4.0.532",
+    "@remotion/media": "^4.0.532",
+    "dotenv": "^18.0.5",
+    "mediabunny": "^1.61.0",
     "react": "19.2.3",
     "react-dom": "19.2.3",
     "remotion": "4.0.532"
