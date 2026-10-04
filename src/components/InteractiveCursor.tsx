@@ -1,5 +1,5 @@
 import React from "react";
-import { interpolate, spring, useCurrentFrame, useVideoConfig } from "remotion";
+import { interpolate, useCurrentFrame } from "remotion";
 
 export interface CursorKeyframe {
   frame: number;
@@ -13,7 +13,6 @@ export const InteractiveCursor: React.FC<{
   keyframes: CursorKeyframe[];
 }> = ({ keyframes }) => {
   const frame = useCurrentFrame();
-  const { fps } = useVideoConfig();
 
   if (keyframes.length === 0) return null;
 

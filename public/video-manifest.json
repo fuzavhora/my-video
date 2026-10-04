@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "title": "Alangkar ERP: The Ultimate Boutique Rental Engine",
+    "category": "software_screencast",
+    "aspectRatio": "16:9",
+    "durationSeconds": 19.2,
+    "recommendedFps": 30
+  },
+  "scenes": [
+    {
+      "startSeconds": 0,
+      "endSeconds": 4.8,
+      "headline": "The Ultimate Boutique Rental Engine",
+      "highlightKeyword": "Rental Engine",
+      "recommendedEffect": "zoom",
+      "zoom": {
+        "scale": 1.25,
+        "focusXPercent": 60,
+        "focusYPercent": 40
+      },
+      "actionSpotlight": {
+        "xPercent": 60,
+        "yPercent": 40,
+        "label": "Instant Ledger"
+      }
+    },
+    {
+      "startSeconds": 4.8,
+      "endSeconds": 9.6,
+      "headline": "Real-Time Garment Availability Matrix",
+      "highlightKeyword": "Availability Matrix",
+      "recommendedEffect": "zoom",
+      "zoom": {
+        "scale": 1.25,
+        "focusXPercent": 70,
+        "focusYPercent": 18
+      },
+      "actionSpotlight": {
+        "xPercent": 70,
+        "yPercent": 18,
+        "label": "Available Stock"
+      }
+    },
+    {
+      "startSeconds": 9.6,
+      "endSeconds": 14.4,
+      "headline": "Automated WhatsApp Billing & Invoicing",
+      "highlightKeyword": "WhatsApp Billing",
+      "recommendedEffect": "zoom",
+      "zoom": {
+        "scale": 1.25,
+        "focusXPercent": 85,
+        "focusYPercent": 55
+      },
+      "actionSpotlight": {
+        "xPercent": 85,
+        "yPercent": 55,
+        "label": "Send Bill via WhatsApp"
+      }
+    },
+    {
+      "startSeconds": 14.4,
+      "endSeconds": 19.2,
+      "headline": "Double Your Capacity With Zero Double-Bookings",
+      "highlightKeyword": "Zero Double-Bookings",
+      "recommendedEffect": "zoom",
+      "zoom": {
+        "scale": 1.25,
+        "focusXPercent": 50,
+        "focusYPercent": 50
+      },
+      "actionSpotlight": {
+        "xPercent": 45,
+        "yPercent": 65,
+        "label": "Create Order"
+      }
+    }
+  ],
+  "subtitles": [
+    {
+      "startSeconds": 0,
+      "endSeconds": 4.8,
+      "text": "Alangkar ERP is the ultimate solution",
+      "emphasisWord": "ultimate solution"
+    },
+    {
+      "startSeconds": 4.8,
+      "endSeconds": 9.6,
+      "text": "With features like real-time inventory availability calendar...",
+      "emphasisWord": "availability calendar"
+    },
+    {
+      "startSeconds": 9.6,
+      "endSeconds": 14.4,
+      "text": "...and automated WhatsApp billing and barcode scanning...",
+      "emphasisWord": "WhatsApp billing"
+    },
+    {
+      "startSeconds": 14.4,
+      "endSeconds": 19.2,
+      "text": "it helps you double your booking capacity with zero double-bookings.",
+      "emphasisWord": "zero double-bookings"
+    }
+  ]
+}
